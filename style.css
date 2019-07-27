@@ -17,6 +17,11 @@ nav {
     background-color: #050505;
 }
 
+section {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .video-fluid {
     width: 100%;
     height: auto;
