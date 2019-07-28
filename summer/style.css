@@ -1,0 +1,52 @@
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+
+/* map*/
+
+#map {
+    min-height: 400px;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 90px;
+}
+
+section {
+    text-align: center;
+}
+
+
+/* section background*/
+
+#contactus {
+    background-color: #daa62b;
+}
+
+#lineup {
+    background-color: #8ee448;
+}
+
+#location {
+    background-color: greenyellow;
+    height: 500px
+}
+
+
+/*text fonts*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Eagle Lake', cursive;
+}
+
+section {
+    margin-left: 10px;
+    margin-right: 10px;
+}
