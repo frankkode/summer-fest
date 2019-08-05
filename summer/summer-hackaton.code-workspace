@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"name": "assets",
+			"path": "/Users/Drfrank/Downloads/landing-zero-theme/assets"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "js"
+    }
+}
