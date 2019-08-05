@@ -2,17 +2,8 @@ def is_even(number):
      return number % 2 == 0
 def even_number_of_evens(numbers):
      
-     evens = 0
-
-     for numbers in numbers:
-          if is_even(numbers):
-               evens += 1
-
-     if evens == 0:
-          return False
-     else:
-          return is_even(evens)
-
+     evens = sum([1 for n in numbers if is_even(n)])
+     return False if evens == 0 else is_even(evens)
      
 
 
